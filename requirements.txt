@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+aiomysql
+alembic
+python-jose[cryptography]
+passlib[bcrypt]
+email-validator
+apscheduler
